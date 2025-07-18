@@ -1,7 +1,9 @@
 // Start coding here
-let add = (a,b) => a + b;
-let subtract = (a,b) => a - b;
-let multiply = (a,b) => a * b;
-let divide = (a,b) => a / b
-
+const add = (a,b) => a + b;
+console.log(add(10,5))
+const subtract = (a,b) => a - b;
+console.log(subtract(10,5))
+const multiply = (a,b) => a * b;
+console.log(multiply(10,5))
+const divide = (a,b) => a / b;
 console.log(divide(10,5))
