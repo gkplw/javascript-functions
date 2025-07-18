@@ -4,4 +4,4 @@ function findMinNumber (a,b) {
     return result
 }
 
-console.log(findMinNumber(9999999999,555555555555555))
+console.log(findMinNumber(10,5))
